@@ -60,7 +60,7 @@ Designed and downloaded for free on [FreeLogoDesign](https://www.freelogodesign.
 - Davys Grey - "Message" button background color
 - Battleship Grey - job description text
 
-<a href="https://coolors.co"><img alt="Color Palette Screenshot" src="./img/palette.png"></a>
+<a href="https://coolors.co/f5f5f5-985277-4381c1-379634-141414-1a1b25-525252-858585"><img alt="Color Palette Screenshot" src="./img/palette.png"></a>
 
 ---
 
