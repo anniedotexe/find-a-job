@@ -1,6 +1,6 @@
 # [Find a Job](https://find-a-job.anniew.xyz/) - a Job Search Dashboard
 
-This is a Job Search Dashboard SaaS Product built using JavaScript. Users can 
+This is a Job Search Dashboard SaaS Product built using JavaScript.
 
 **LIVE DEMO** - [find-a-job.anniew.xyz](https://find-a-job.anniew.xyz/) OR [find-a-job.netlify.app](https://find-a-job.netlify.app/)
 
