@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find-a-Job - Job Search Dashboard</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        crossorigin="anonymous" />
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <header>
+        <div class="header-container">
+            <div class="logo">
+                <a href="/"><img src="./img/logo.png" alt="Logo"></a>
+            </div>
+            <a class="title" href="/">Find-a-Job</a>
+        </div>
+    </header>
+
+    <div class="search">
+        <div class="search-container">
+            <div class="input-container">
+                <i class="fas fa-search"></i>
+                <input type="text" id="filter-jobs" name="filter-jobs" placeholder="Filter by..." />
+            </div>
+            <div class="button-container">
+                <span>Find Job</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="jobs-list">
+        <h1>Showing 15 Jobs</h1>
+        <div class="jobs-container"></div>
+    </div>
+
+    <script src="./js/script.js"></script>
+</body>
+
+</html>
