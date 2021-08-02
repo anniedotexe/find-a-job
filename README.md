@@ -25,10 +25,12 @@ This is a Job Search Dashboard SaaS Product built using JavaScript.
   - [Color Scheme](#color-scheme)
 - [Built With](#built-with)
 - [Demo](#demo)
+- [Contributing](#contributing)
 - [Creator / Maintainer](#creator-maintainer)
 - [Acknowledgments](#acknowledgments)
 
 ---
+
 ## Design
 
 ### Logo
@@ -37,13 +39,11 @@ Designed and downloaded for free on [FreeLogoDesign](https://www.freelogodesign.
 
 <img alt="Logo" src="./img/logo.png">
 
-
 ### Fonts
 
 [Poppins](https://fonts.google.com/specimen/Poppins) - logo, titles, and headings
 
 <img alt="Font Example Screenshot" src="./img/poppins.png">
-
 
 [Nunito](https://fonts.google.com/specimen/Nunito) - all other text
 
@@ -76,6 +76,22 @@ Designed and downloaded for free on [FreeLogoDesign](https://www.freelogodesign.
 ## Demo
 
 <img alt="Demo Gif" src="./img/preview.gif">
+
+---
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
+
+### How To Contribute
+
+1. Fork the repository to your own Github account.
+2. Clone the project to your machine.
+3. Create a branch locally with a succinct but descriptive name.
+4. Commit changes to the branch.
+5. Following any formatting and testing guidelines specific to this repo.
+6. Push changes to your fork.
+7. Open a Pull Request in my repository.
 
 ---
 
