@@ -26,7 +26,7 @@ This is a Job Search Dashboard SaaS Product built using JavaScript.
 - [Built With](#built-with)
 - [Demo](#demo)
 - [Contributing](#contributing)
-- [Creator / Maintainer](#creator-maintainer)
+- [Creator / Maintainer](#creator--maintainer)
 - [Acknowledgments](#acknowledgments)
 
 ---
